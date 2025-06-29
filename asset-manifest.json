@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/YuvanMoorthi.github.io/far-away-react/static/css/main.d37fe1a8.css",
-    "main.js": "/YuvanMoorthi.github.io/far-away-react/static/js/main.70e32668.js",
-    "index.html": "/YuvanMoorthi.github.io/far-away-react/index.html",
-    "main.d37fe1a8.css.map": "/YuvanMoorthi.github.io/far-away-react/static/css/main.d37fe1a8.css.map",
-    "main.70e32668.js.map": "/YuvanMoorthi.github.io/far-away-react/static/js/main.70e32668.js.map"
+    "main.css": "/far-away-react/static/css/main.d37fe1a8.css",
+    "main.js": "/far-away-react/static/js/main.70e32668.js",
+    "index.html": "/far-away-react/index.html",
+    "main.d37fe1a8.css.map": "/far-away-react/static/css/main.d37fe1a8.css.map",
+    "main.70e32668.js.map": "/far-away-react/static/js/main.70e32668.js.map"
   },
   "entrypoints": [
     "static/css/main.d37fe1a8.css",
